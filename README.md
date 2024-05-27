@@ -1,3 +1,4 @@
+![logo](Github_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Fareeha Ali. Let's uncover 🔎 insights of data science 📊</h1>
 <h3 align="center">Curiosity-driven data explorer with a thirst for discovery, seeking hidden patterns and insights</h3>
 
